@@ -1,7 +1,7 @@
 # 씨-언어
 Korean C Programming Lang
 
-한글프로그래밍언어(일명 코랭, Ko-Lang)은 평범한 대학생이 강의 도중 심심해서 구상해 본 C++기반 한글 프로그래밍 언어입니다.
+한글프로그래밍언어(일명 코랭, Ko-Lang)은 평범한 대학생이 심심해서 구상해 본 C++기반 한글 프로그래밍 언어입니다.
 
 엄랭([umjunsik-lang](https://github.com/rycont/umjunsik-lang))과 해병문학([marine-lang](https://github.com/dpvpd/MarineLang))을 이어나갈 제 3의 한글 프로그래밍 언어를 꿈꾸고 있습니다.
 
