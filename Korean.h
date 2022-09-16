@@ -57,16 +57,13 @@
 #define 구 9
 // 여기부턴 문자 선언 입니다
 #define 끝 ;
+#define 음 ,
 #define 범위시작 [
 #define 범위끝 ]
 #define 함수시작 {
 #define 함수끝 }
 #define 조건시작 (
 #define 조건끝 )
-#define 문자열시작 "
-#define 문자열끝 "
-#define 문자시작 '
-#define 문자끝 '
 #define 공백 " "
 #define 개행 "\n"
 // ========================= K o L a n g
