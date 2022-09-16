@@ -36,7 +36,7 @@
 #define 크다 >
 #define 크거나같다 >=
 #define 작다 <
-#define 작거나같다 >=
+#define 작거나같다 <=
 #define 같다 ==
 #define 증가 ++
 #define 감소 --
