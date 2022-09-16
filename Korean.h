@@ -63,6 +63,10 @@
 #define 함수끝 }
 #define 조건시작 (
 #define 조건끝 )
+#define 문자열시작 "
+#define 문자열끝 "
+#define 문자시작 '
+#define 문자끝 '
 #define 공백 " "
 #define 개행 "\n"
 // ========================= K o L a n g
