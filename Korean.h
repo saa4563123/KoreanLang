@@ -10,6 +10,7 @@ using namespace std;
 // 여기부턴 변수형 선언 입니다
 #define 정수 int
 #define 실수 double
+#define 문자 char
 #define 문자열 string
 // 여기부턴 초기화 선언 입니다
 #define 정수배열초기화 {0}
