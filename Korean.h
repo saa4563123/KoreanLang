@@ -40,6 +40,10 @@
 #define 같다 ==
 #define 증가 ++
 #define 감소 --
+#define 원값덧셈 +=
+#define 원값뺄셈 -=
+#define 원값곱셈 *=
+#define 원값나눗셈 /=
 // 여기부턴 반환값 선언 입니다
 #define 반환없음 return 0
 #define 반환 return
