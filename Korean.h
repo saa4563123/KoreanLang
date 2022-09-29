@@ -2,6 +2,8 @@
 
 #include <iostream>
 
+using namespace std;
+
 // 여기부턴 함수 선언 입니다
 #define 본문함수 int main(void)
 #define 표준소속선언 using namespace std
